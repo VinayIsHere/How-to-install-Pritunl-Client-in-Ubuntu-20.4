@@ -28,3 +28,5 @@ Now execute the following command
 sudo apt-get update
 sudo apt-get install pritunl-client-electron
 ```
+Use the following key: ```7568D9BB55FF9E5287D586017AE645C0CF8E292A```
+This key has been taken from official pritunl site.
